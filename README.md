@@ -1,6 +1,18 @@
 # Cricket
 This is a package which can be used for assessing videos of bowling and batting
 
+## How to install
+### Option 1
+Use this command:
+```powershell
+pip install cricket-tannmay
+```
+### Option 2
+Download the source code and requirements.txt and run this command:
+```powershell
+pip install -r requirements.txt
+```
+
 ## How To Use
 ### Batting
 #### Specific Shot
